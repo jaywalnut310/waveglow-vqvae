@@ -11,6 +11,18 @@ You can choose local conditions among mel-spectrogram or vector-quantized repres
 As more options, polyak-averaging, FiLM and weight normalization are implemented.
 
 
+## Audio Samples
+### LJ dataset
+Mel spectrogram condition (original WaveGlow): https://drive.google.com/open?id=1HuV51fnhEZG_6vGubXVrer6lAtZK7py9
+VQVAE condition: https://drive.google.com/open?id=1xcGSelMycn2g-72noZH4vPiPpG0d7pZq
+
+### VCTK Corpus (Voice conversion)
+It does not work well at now :(
+
+Source (360): https://drive.google.com/open?id=1CfEvnQS_dVYRhsvj8NDqogOJlzK7npTd
+Target (303): https://drive.google.com/open?id=1-kcSglimKgJrRjLDfPbD7s5KxZuFRY-i
+
+
 ## My Humble Contribution
 I slightly modify the original VQVAE optimization technique to increase robustness w.r.t hyperparameter choices and diversity of latent code usage without index-collapse.
 That is,

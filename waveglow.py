@@ -103,7 +103,7 @@ def mel_conditioner(x, hparams, infer=False):
             kernel_size=(s * 4, 1),
             strides=(s, 1),
             padding="same",
-            activation=act_fn(hprarams.act_name))
+            activation=act_fn(hparams.act_name))
       x = tf.squeeze(x, 2)
       losses = {}
     else:
