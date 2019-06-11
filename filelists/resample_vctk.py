@@ -41,11 +41,8 @@ for x in sid:
   if not os.path.isdir(os.path.join(data_path, "wav22/p%s" % x)):
     os.makedirs(os.path.relpath(os.path.join(data_path, "wav22/p%s" % x)))
   wav = glob.glob(os.path.join(data_path, "wav48/p%s/*.wav" % x))
-  txt = glob.glob(os.path.join(data_path, "txt/p%s/*.txt" % x))
 
-  for i, (y, z) in enumerate(zip(wav, txt)):
-    z = " ".join(" ".join(open(z, "r").readlines()).split())
-
+  for i, y in enumerate(wav):
     sr, wav = resample(y, sample_rate=22050)
     if len(wav) < min_signal_length:
       print("%s is not long enough to train." % y)
@@ -56,27 +53,3 @@ for x in sid:
 
     y = y.replace("wav48", "wav22")
     wavfile.write(y, sr, wav)
-
-    file_list.append([x, y, z])
-    if i % 100 == 0:
-      print("READ: %4d, %9d" % (x, i), end='\r')
-    
-
-random.shuffle(file_list)
-with open("vctk_sid_audio_text_eval_filelist.txt", "w") as f:
-  flag = ""
-  for x, y, z in file_list[:100]:
-    f.write("%s%d|%s|%s" % (flag, x, y, z))
-    flag = "\n"
-with open("vctk_sid_audio_text_test_filelist.txt", "w") as f:
-  flag = ""
-  for x, y, z in file_list[100:600]:
-    f.write("%s%d|%s|%s" % (flag, x, y, z))
-    flag = "\n"
-
-with open("vctk_sid_audio_text_train_filelist.txt", "w") as f:
-  file_list[600:]
-  flag = ""
-  for x, y, z in file_list[600:]:
-    f.write("%s%d|%s|%s" % (flag, x, y, z))
-    flag = "\n"
