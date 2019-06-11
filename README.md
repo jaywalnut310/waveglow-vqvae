@@ -95,7 +95,9 @@ Example configs:
 
 ## Pre-trained models
 Compressed model directories with pretrained weights are available: WILL BE UPLOADED SOON!
+
 You can generate samples with those models in inference.ipynb.
+
 You may have to change tfr_dir and model_dir to work on your settings.
 
 
