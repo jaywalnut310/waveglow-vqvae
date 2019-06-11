@@ -74,9 +74,9 @@ If you want to change hparams, then you can do it by choosing one of two options
   ```
 
 Example configs:
-- fp32 training: python train.py -m ~/your-log-dir --c ftype=float32 loss_scale=1
-- mel condition: python train.py -m ~/your-log-dir --c local_condition=mel use_vq=false
-- remove FiLM layers: python train.py -m ~/your-log-dir --c use_film=false
+- fp32 training: `python train.py -m ~/your-log-dir --c ftype=float32 loss_scale=1`
+- mel condition: `python train.py -m ~/your-log-dir --c local_condition=mel use_vq=false`
+- remove FiLM layers: `python train.py -m ~/your-log-dir --c use_film=false`
 
 
 ## Pre-trained models
