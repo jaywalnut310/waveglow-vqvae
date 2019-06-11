@@ -1,0 +1,501 @@
+sid|fname
+241|datasets/VCTK-Corpus/wav22/p241/p241_329.wav|This represents a tough game for us.
+329|datasets/VCTK-Corpus/wav22/p329/p329_056.wav|I wish they, too, would get a grip.
+283|datasets/VCTK-Corpus/wav22/p283/p283_151.wav|Scrutiny by the European Parliament is limited.
+231|datasets/VCTK-Corpus/wav22/p231/p231_339.wav|People look, but no one ever finds it.
+364|datasets/VCTK-Corpus/wav22/p364/p364_057.wav|It's happened, but it's a dream.
+351|datasets/VCTK-Corpus/wav22/p351/p351_319.wav|It has proved a double whammy.
+300|datasets/VCTK-Corpus/wav22/p300/p300_039.wav|The law will take its course.
+278|datasets/VCTK-Corpus/wav22/p278/p278_085.wav|Must be prepared to use it.
+295|datasets/VCTK-Corpus/wav22/p295/p295_061.wav|I haven't enjoyed the last couple of years.
+302|datasets/VCTK-Corpus/wav22/p302/p302_124.wav|Reviving the Scottish Open is one option.
+292|datasets/VCTK-Corpus/wav22/p292/p292_215.wav|Lose, and they would be ridiculed.
+336|datasets/VCTK-Corpus/wav22/p336/p336_015.wav|I just couldn't believe what had happened.
+247|datasets/VCTK-Corpus/wav22/p247/p247_217.wav|And it covers the spectrum.)
+335|datasets/VCTK-Corpus/wav22/p335/p335_040.wav|It is a court case.
+231|datasets/VCTK-Corpus/wav22/p231/p231_192.wav|Neither man has been charged.
+227|datasets/VCTK-Corpus/wav22/p227/p227_399.wav|The expansions will be financed by the Clydesdale Bank.
+301|datasets/VCTK-Corpus/wav22/p301/p301_251.wav|The difference in the rainbow depends considerably upon the size of the drops, and the width of the colored band increases as the size of the drops increases.
+364|datasets/VCTK-Corpus/wav22/p364/p364_043.wav|I'm not interested in money.
+276|datasets/VCTK-Corpus/wav22/p276/p276_168.wav|Those people must be accountable.
+314|datasets/VCTK-Corpus/wav22/p314/p314_139.wav|His English counterpart agreed.
+259|datasets/VCTK-Corpus/wav22/p259/p259_208.wav|He took over our lives.)
+240|datasets/VCTK-Corpus/wav22/p240/p240_313.wav|I, in the meantime, had been far from chilling.
+229|datasets/VCTK-Corpus/wav22/p229/p229_201.wav|It was my own fault and I lost a lot of belief.
+262|datasets/VCTK-Corpus/wav22/p262/p262_073.wav|Our intentions are real.
+247|datasets/VCTK-Corpus/wav22/p247/p247_289.wav|The amount of alcohol as a whole was very high.)
+251|datasets/VCTK-Corpus/wav22/p251/p251_285.wav|People come into the Borders for the beauty of the background.
+280|datasets/VCTK-Corpus/wav22/p280/p280_329.wav|It is also seeking a national mortgage rescue plan.
+347|datasets/VCTK-Corpus/wav22/p347/p347_327.wav|We cannot ask for them back.
+295|datasets/VCTK-Corpus/wav22/p295/p295_174.wav|He was elected as a councillor last year.
+237|datasets/VCTK-Corpus/wav22/p237/p237_342.wav|They should have a major rethink about the event for next year.
+230|datasets/VCTK-Corpus/wav22/p230/p230_331.wav|Do I think about them often ?
+238|datasets/VCTK-Corpus/wav22/p238/p238_169.wav|People should make their own decisions.
+288|datasets/VCTK-Corpus/wav22/p288/p288_345.wav|A report is the first step in a criminal case in India.
+313|datasets/VCTK-Corpus/wav22/p313/p313_007.wav|The conference is the first test.
+362|datasets/VCTK-Corpus/wav22/p362/p362_284.wav|He was jailed for five years.
+227|datasets/VCTK-Corpus/wav22/p227/p227_376.wav|Are they free ?
+334|datasets/VCTK-Corpus/wav22/p334/p334_145.wav|It is par for the course, isn't it?
+295|datasets/VCTK-Corpus/wav22/p295/p295_332.wav|There is , according to legend, a boiling pot of gold at one end.
+278|datasets/VCTK-Corpus/wav22/p278/p278_293.wav|Since then physicists have found that it is not reflection, but refraction by the raindrops which causes the rainbows.
+243|datasets/VCTK-Corpus/wav22/p243/p243_279.wav|That is the last thing they need.
+261|datasets/VCTK-Corpus/wav22/p261/p261_441.wav|The others have all been in storage for some time.
+301|datasets/VCTK-Corpus/wav22/p301/p301_349.wav|It's about my time as a guitarist.
+305|datasets/VCTK-Corpus/wav22/p305/p305_240.wav|He would help me with the form.
+351|datasets/VCTK-Corpus/wav22/p351/p351_420.wav|It was really frustrating.
+262|datasets/VCTK-Corpus/wav22/p262/p262_295.wav|One was a lawyer.
+239|datasets/VCTK-Corpus/wav22/p239/p239_201.wav|Allen is strong in every shape and form.
+282|datasets/VCTK-Corpus/wav22/p282/p282_178.wav|It's all about money, money, money.
+249|datasets/VCTK-Corpus/wav22/p249/p249_071.wav|Many complicated ideas about the rainbow have been formed.
+272|datasets/VCTK-Corpus/wav22/p272/p272_053.wav|This represents a tough game for us.
+285|datasets/VCTK-Corpus/wav22/p285/p285_258.wav|He has already suffered a good deal of unwanted attention.
+234|datasets/VCTK-Corpus/wav22/p234/p234_116.wav|From there, they can go anywhere.
+266|datasets/VCTK-Corpus/wav22/p266/p266_159.wav|I've invented a village in East Lothian.
+266|datasets/VCTK-Corpus/wav22/p266/p266_423.wav|Your father was a good man.
+312|datasets/VCTK-Corpus/wav22/p312/p312_334.wav|They want this research to continue.
+249|datasets/VCTK-Corpus/wav22/p249/p249_220.wav|Throughout the centuries people have explained the rainbow in various ways.
+257|datasets/VCTK-Corpus/wav22/p257/p257_393.wav|I feel like my game has come a long way.
+361|datasets/VCTK-Corpus/wav22/p361/p361_092.wav|That there would be discussions.
+329|datasets/VCTK-Corpus/wav22/p329/p329_286.wav|He denied that he was an absentee landlord.
+260|datasets/VCTK-Corpus/wav22/p260/p260_041.wav|She said she would not welcome the flowers.
+233|datasets/VCTK-Corpus/wav22/p233/p233_349.wav|I thought it was my only chance.
+341|datasets/VCTK-Corpus/wav22/p341/p341_323.wav|Bill is a mentor.
+307|datasets/VCTK-Corpus/wav22/p307/p307_008.wav|Shyness has rarely sold in boxing terms.
+363|datasets/VCTK-Corpus/wav22/p363/p363_136.wav|The Norsemen considered the rainbow as a bridge over which the gods passed from earth to their home in the sky.
+270|datasets/VCTK-Corpus/wav22/p270/p270_426.wav|This is a very common type of bow, one showing mainly red and yellow, with little or no green or blue.She is given a new deputy minister for transport and planning.
+303|datasets/VCTK-Corpus/wav22/p303/p303_083.wav|The Government, however, insists the company is not for sale.
+231|datasets/VCTK-Corpus/wav22/p231/p231_329.wav|If not, a deal could take many months.
+294|datasets/VCTK-Corpus/wav22/p294/p294_054.wav|Hopefully, that'll come from someone on our side.
+272|datasets/VCTK-Corpus/wav22/p272/p272_113.wav|Children should be given the same amount of rights as adults.
+312|datasets/VCTK-Corpus/wav22/p312/p312_243.wav|Trevor has been great.
+360|datasets/VCTK-Corpus/wav22/p360/p360_207.wav|An announcement is expected soon.
+333|datasets/VCTK-Corpus/wav22/p333/p333_273.wav|Some will be deployed on submarines.
+288|datasets/VCTK-Corpus/wav22/p288/p288_151.wav|She also defended the Lord Chancellor's existing powers.
+347|datasets/VCTK-Corpus/wav22/p347/p347_245.wav|What's the rush?
+230|datasets/VCTK-Corpus/wav22/p230/p230_002.wav|He remains a main board director of Royal.
+305|datasets/VCTK-Corpus/wav22/p305/p305_417.wav|Usually, you should leave it alone in the box.
+253|datasets/VCTK-Corpus/wav22/p253/p253_345.wav|According to the criteria, he is qualified for Scotland.
+270|datasets/VCTK-Corpus/wav22/p270/p270_379.wav|Hopefully, it will come from someone on our side.
+341|datasets/VCTK-Corpus/wav22/p341/p341_125.wav|Felt good about it.
+301|datasets/VCTK-Corpus/wav22/p301/p301_252.wav|The actual primary rainbow observed is said to be the effect of super-imposition of a number of bows.
+301|datasets/VCTK-Corpus/wav22/p301/p301_396.wav|Hopefully, we can learn from our mistakes.
+307|datasets/VCTK-Corpus/wav22/p307/p307_090.wav|We are trying to clarify the issues.
+323|datasets/VCTK-Corpus/wav22/p323/p323_379.wav|The council's concern is very simple.
+262|datasets/VCTK-Corpus/wav22/p262/p262_288.wav|However, the decision has been welcomed by Scottish Enterprise officials.
+262|datasets/VCTK-Corpus/wav22/p262/p262_089.wav|Next season for every manager is a long time away.
+279|datasets/VCTK-Corpus/wav22/p279/p279_131.wav|There will be widespread support on all sides.
+341|datasets/VCTK-Corpus/wav22/p341/p341_241.wav|My aim is a top six finish.
+363|datasets/VCTK-Corpus/wav22/p363/p363_082.wav|Maybe it will work there.
+230|datasets/VCTK-Corpus/wav22/p230/p230_361.wav|That was the theory, anyway.
+364|datasets/VCTK-Corpus/wav22/p364/p364_087.wav|I've got nothing to say.
+316|datasets/VCTK-Corpus/wav22/p316/p316_129.wav|She had denied the charge.
+283|datasets/VCTK-Corpus/wav22/p283/p283_141.wav|I was pleased with my own game.
+333|datasets/VCTK-Corpus/wav22/p333/p333_256.wav|It was a disaster.
+236|datasets/VCTK-Corpus/wav22/p236/p236_196.wav|In fact, we were all over the shop.
+333|datasets/VCTK-Corpus/wav22/p333/p333_323.wav|I want to play at the highest level.
+250|datasets/VCTK-Corpus/wav22/p250/p250_490.wav|We need to increase the membership.
+255|datasets/VCTK-Corpus/wav22/p255/p255_252.wav|He has a lot of experience as captain in his career.
+360|datasets/VCTK-Corpus/wav22/p360/p360_236.wav|It's a creative energy.
+274|datasets/VCTK-Corpus/wav22/p274/p274_148.wav|It's just a training thing.)
+374|datasets/VCTK-Corpus/wav22/p374/p374_409.wav|We also need a small plastic snake and a big toy frog for the kids.
+232|datasets/VCTK-Corpus/wav22/p232/p232_407.wav|This time, it will have opened up the field a little bit.
+270|datasets/VCTK-Corpus/wav22/p270/p270_451.wav|The world record is suspicious.
+225|datasets/VCTK-Corpus/wav22/p225/p225_027.wav|Officers recovered a second body in the area.
+287|datasets/VCTK-Corpus/wav22/p287/p287_350.wav|In essence, the teaching profession has a choice.
+284|datasets/VCTK-Corpus/wav22/p284/p284_010.wav|He repeated his call for an inquiry into the police response.
+271|datasets/VCTK-Corpus/wav22/p271/p271_241.wav|It is not either national standards or local control.
+269|datasets/VCTK-Corpus/wav22/p269/p269_250.wav|My office is bare.
+231|datasets/VCTK-Corpus/wav22/p231/p231_336.wav|I've always been a sensitive.
+308|datasets/VCTK-Corpus/wav22/p308/p308_080.wav|I hope they understand that.
+334|datasets/VCTK-Corpus/wav22/p334/p334_094.wav|I think it is totally wrong.
+283|datasets/VCTK-Corpus/wav22/p283/p283_400.wav|The trick is to try it.
+306|datasets/VCTK-Corpus/wav22/p306/p306_309.wav|You either have him or you don't.
+250|datasets/VCTK-Corpus/wav22/p250/p250_357.wav|Some have accepted it as a miracle without physical explanation.
+232|datasets/VCTK-Corpus/wav22/p232/p232_202.wav|Gaelic provision continued to be good.
+282|datasets/VCTK-Corpus/wav22/p282/p282_024.wav|One MP said he feared the job losses were only the beginning.
+301|datasets/VCTK-Corpus/wav22/p301/p301_194.wav|Lara is very, very much a girl.
+234|datasets/VCTK-Corpus/wav22/p234/p234_041.wav|It all started with a visiting rugby club.
+347|datasets/VCTK-Corpus/wav22/p347/p347_418.wav|Election results are expected soon.
+268|datasets/VCTK-Corpus/wav22/p268/p268_009.wav|THE Farmer wants a new campaign.
+347|datasets/VCTK-Corpus/wav22/p347/p347_217.wav|Peter, of course, refuses to conform.
+273|datasets/VCTK-Corpus/wav22/p273/p273_073.wav|His team management was protective.
+227|datasets/VCTK-Corpus/wav22/p227/p227_378.wav|We have to offer value for money.
+254|datasets/VCTK-Corpus/wav22/p254/p254_148.wav|He is too weak to move.
+255|datasets/VCTK-Corpus/wav22/p255/p255_015.wav|It's never too late.
+273|datasets/VCTK-Corpus/wav22/p273/p273_293.wav|Does the name matter ?
+305|datasets/VCTK-Corpus/wav22/p305/p305_354.wav|She told me to apply for the crest.
+269|datasets/VCTK-Corpus/wav22/p269/p269_283.wav|It's a true story.
+297|datasets/VCTK-Corpus/wav22/p297/p297_066.wav|This is the start of a slippery slope.
+231|datasets/VCTK-Corpus/wav22/p231/p231_328.wav|That is far too high.
+279|datasets/VCTK-Corpus/wav22/p279/p279_122.wav|It's too much work.
+266|datasets/VCTK-Corpus/wav22/p266/p266_303.wav|Mrs Thatcher was in the right place, at the right time.
+326|datasets/VCTK-Corpus/wav22/p326/p326_306.wav|The site has been fully recorded and surveyed.
+340|datasets/VCTK-Corpus/wav22/p340/p340_131.wav|Governments will have to respond.
+249|datasets/VCTK-Corpus/wav22/p249/p249_145.wav|For the moment, that is the result of the X-ray.
+279|datasets/VCTK-Corpus/wav22/p279/p279_045.wav|Broke the birdie record.
+228|datasets/VCTK-Corpus/wav22/p228/p228_143.wav|Inside, the atmosphere was quiet.
+362|datasets/VCTK-Corpus/wav22/p362/p362_132.wav|We are not getting him back.
+316|datasets/VCTK-Corpus/wav22/p316/p316_088.wav|Every case is completely different.
+270|datasets/VCTK-Corpus/wav22/p270/p270_110.wav|Are you from the rugby ?
+252|datasets/VCTK-Corpus/wav22/p252/p252_392.wav|He is particularly happy with the size of the gallery.
+313|datasets/VCTK-Corpus/wav22/p313/p313_138.wav|However, it's good to turn the page.
+257|datasets/VCTK-Corpus/wav22/p257/p257_429.wav|Off I went.
+232|datasets/VCTK-Corpus/wav22/p232/p232_150.wav|But it may take some time to confirm the findings.
+340|datasets/VCTK-Corpus/wav22/p340/p340_070.wav|We have no further comment to make.
+233|datasets/VCTK-Corpus/wav22/p233/p233_216.wav|The salary changes are long overdue.
+330|datasets/VCTK-Corpus/wav22/p330/p330_381.wav|There is precious little middle ground.
+228|datasets/VCTK-Corpus/wav22/p228/p228_098.wav|Florida is the pivotal state in the nation.
+293|datasets/VCTK-Corpus/wav22/p293/p293_321.wav|Many complicated ideas about the rainbow have been formed.
+326|datasets/VCTK-Corpus/wav22/p326/p326_323.wav|There were no immediate reports of injuries.
+307|datasets/VCTK-Corpus/wav22/p307/p307_321.wav|They had been together for about three years.
+254|datasets/VCTK-Corpus/wav22/p254/p254_087.wav|Both sides have been hit by injury.
+248|datasets/VCTK-Corpus/wav22/p248/p248_300.wav|I had relied on him.
+245|datasets/VCTK-Corpus/wav22/p245/p245_333.wav|Oil embargo endorsed.
+363|datasets/VCTK-Corpus/wav22/p363/p363_076.wav|We have been extremely busy.
+286|datasets/VCTK-Corpus/wav22/p286/p286_153.wav|It's very difficult to find a buyer.
+304|datasets/VCTK-Corpus/wav22/p304/p304_220.wav|What has changed?
+305|datasets/VCTK-Corpus/wav22/p305/p305_242.wav|The minister is the engineer.
+334|datasets/VCTK-Corpus/wav22/p334/p334_108.wav|More likely, perhaps, is that he will stay in England.
+267|datasets/VCTK-Corpus/wav22/p267/p267_404.wav|Sport is good for you.
+261|datasets/VCTK-Corpus/wav22/p261/p261_056.wav|A senior party insider said.
+336|datasets/VCTK-Corpus/wav22/p336/p336_061.wav|Wouldn't it be nice?
+245|datasets/VCTK-Corpus/wav22/p245/p245_111.wav|That group reported just before Christmas.
+258|datasets/VCTK-Corpus/wav22/p258/p258_243.wav|It is a private matter between the firm and our staff.
+287|datasets/VCTK-Corpus/wav22/p287/p287_385.wav|Such actions are rarely popular.
+287|datasets/VCTK-Corpus/wav22/p287/p287_217.wav|Do they think anyone else wants them ?
+341|datasets/VCTK-Corpus/wav22/p341/p341_072.wav|We cannot lose it.
+305|datasets/VCTK-Corpus/wav22/p305/p305_296.wav|So people will come out with these things.
+277|datasets/VCTK-Corpus/wav22/p277/p277_412.wav|We also enjoyed a lot of support.
+275|datasets/VCTK-Corpus/wav22/p275/p275_359.wav|There's no evidence he was ever there.
+335|datasets/VCTK-Corpus/wav22/p335/p335_389.wav|It's our worst nightmare.
+267|datasets/VCTK-Corpus/wav22/p267/p267_173.wav|It needs to be volatile.
+228|datasets/VCTK-Corpus/wav22/p228/p228_320.wav|We talk about Mr Michael Johnson, and he is awesome.
+308|datasets/VCTK-Corpus/wav22/p308/p308_041.wav|And that's good news for the magpies.
+260|datasets/VCTK-Corpus/wav22/p260/p260_295.wav|Among them are many criminals.
+255|datasets/VCTK-Corpus/wav22/p255/p255_305.wav|Wednesday night was a difficult time for Britton.
+326|datasets/VCTK-Corpus/wav22/p326/p326_151.wav|She can scoop these things into three red bags, and we will go meet her Wednesday at the train station.
+270|datasets/VCTK-Corpus/wav22/p270/p270_225.wav|Scotland came very close in the second Test.
+345|datasets/VCTK-Corpus/wav22/p345/p345_254.wav|As far as Scotland is concerned, he should relax.
+259|datasets/VCTK-Corpus/wav22/p259/p259_408.wav|Do I have a favourite ?)
+283|datasets/VCTK-Corpus/wav22/p283/p283_318.wav|This news came after the stock market closed on Monday.
+311|datasets/VCTK-Corpus/wav22/p311/p311_026.wav|My office is down there.
+306|datasets/VCTK-Corpus/wav22/p306/p306_304.wav|We said, What do you mean?
+240|datasets/VCTK-Corpus/wav22/p240/p240_107.wav|He has to learn.
+249|datasets/VCTK-Corpus/wav22/p249/p249_274.wav|And a film maker was born.
+239|datasets/VCTK-Corpus/wav22/p239/p239_473.wav|This comes down to a problem of arrogance.
+231|datasets/VCTK-Corpus/wav22/p231/p231_127.wav|You know the sort of thing.
+341|datasets/VCTK-Corpus/wav22/p341/p341_278.wav|This is a big advantage.
+237|datasets/VCTK-Corpus/wav22/p237/p237_001.wav|You can feel at home in China.
+310|datasets/VCTK-Corpus/wav22/p310/p310_382.wav|The goal will stay with me forever.
+345|datasets/VCTK-Corpus/wav22/p345/p345_275.wav|That's when you hope to take advantage.
+236|datasets/VCTK-Corpus/wav22/p236/p236_179.wav|The court was shown a video of the house on that day.
+310|datasets/VCTK-Corpus/wav22/p310/p310_294.wav|I'm back playing football, which is what it's all about.
+351|datasets/VCTK-Corpus/wav22/p351/p351_399.wav|His handling raises a wider issue.
+230|datasets/VCTK-Corpus/wav22/p230/p230_201.wav|That is the consistent approach of the Government.
+247|datasets/VCTK-Corpus/wav22/p247/p247_093.wav|It will be strictly cross-country.)
+361|datasets/VCTK-Corpus/wav22/p361/p361_404.wav|Failure is not an option.
+311|datasets/VCTK-Corpus/wav22/p311/p311_390.wav|It's something we want to make work.
+227|datasets/VCTK-Corpus/wav22/p227/p227_364.wav|It's just a normal life.
+340|datasets/VCTK-Corpus/wav22/p340/p340_271.wav|This research is extremely promising.
+244|datasets/VCTK-Corpus/wav22/p244/p244_338.wav|He is a great prospect.
+249|datasets/VCTK-Corpus/wav22/p249/p249_048.wav|I was at the British Olympic Medical Centre, on Friday.
+340|datasets/VCTK-Corpus/wav22/p340/p340_064.wav|But he was a really nice man.
+316|datasets/VCTK-Corpus/wav22/p316/p316_135.wav|Robin Williams is subdued.
+263|datasets/VCTK-Corpus/wav22/p263/p263_451.wav|There is no plan B.
+274|datasets/VCTK-Corpus/wav22/p274/p274_314.wav|It was like a weekly wage.)
+238|datasets/VCTK-Corpus/wav22/p238/p238_294.wav|This represents a tough game for us.
+264|datasets/VCTK-Corpus/wav22/p264/p264_317.wav|So, did she meet him?)
+376|datasets/VCTK-Corpus/wav22/p376/p376_013.wav|"Sunday's game was not a trial."
+307|datasets/VCTK-Corpus/wav22/p307/p307_288.wav|I can't believe anyone would agree with it.
+287|datasets/VCTK-Corpus/wav22/p287/p287_348.wav|We had to add value.
+329|datasets/VCTK-Corpus/wav22/p329/p329_040.wav|She had experience of the wildest places.
+244|datasets/VCTK-Corpus/wav22/p244/p244_153.wav|This time, it will have opened up the field a little bit.
+284|datasets/VCTK-Corpus/wav22/p284/p284_097.wav|He can do no wrong.
+273|datasets/VCTK-Corpus/wav22/p273/p273_294.wav|That would open the gates of hell.
+303|datasets/VCTK-Corpus/wav22/p303/p303_348.wav|They were very, very anxious and nervous about their personal safety.
+340|datasets/VCTK-Corpus/wav22/p340/p340_012.wav|He was elected as a councillor last year.
+254|datasets/VCTK-Corpus/wav22/p254/p254_200.wav|Iain Duncan Smith is a decent man.
+336|datasets/VCTK-Corpus/wav22/p336/p336_089.wav|On that they agree.
+360|datasets/VCTK-Corpus/wav22/p360/p360_314.wav|Is it all real?
+237|datasets/VCTK-Corpus/wav22/p237/p237_100.wav|Who will attend ?
+240|datasets/VCTK-Corpus/wav22/p240/p240_093.wav|We welcome the decision of Mr Byers.
+317|datasets/VCTK-Corpus/wav22/p317/p317_396.wav|The company has other problems with the shells.
+232|datasets/VCTK-Corpus/wav22/p232/p232_107.wav|He is now resident in England.
+299|datasets/VCTK-Corpus/wav22/p299/p299_083.wav|Hopefully, it will come from someone on our side.
+270|datasets/VCTK-Corpus/wav22/p270/p270_410.wav|This statement has never been withdrawn.
+231|datasets/VCTK-Corpus/wav22/p231/p231_283.wav|It is set in Paris.
+254|datasets/VCTK-Corpus/wav22/p254/p254_164.wav|There was a battle there.
+361|datasets/VCTK-Corpus/wav22/p361/p361_152.wav|I did not think it was very proper.
+267|datasets/VCTK-Corpus/wav22/p267/p267_185.wav|We will look into it.
+231|datasets/VCTK-Corpus/wav22/p231/p231_130.wav|In time, the First Minister will grow in stature.
+295|datasets/VCTK-Corpus/wav22/p295/p295_420.wav|A final agreement has not yet been completed.
+310|datasets/VCTK-Corpus/wav22/p310/p310_353.wav|This guy is never going to give up.
+363|datasets/VCTK-Corpus/wav22/p363/p363_399.wav|He gave no other details.
+255|datasets/VCTK-Corpus/wav22/p255/p255_123.wav|It came as a surprise because my job is to go backwards.
+341|datasets/VCTK-Corpus/wav22/p341/p341_260.wav|It was to no avail.
+313|datasets/VCTK-Corpus/wav22/p313/p313_347.wav|When it comes down to it, this is a job.
+228|datasets/VCTK-Corpus/wav22/p228/p228_359.wav|This is a very common type of bow, one showing mainly red and yellow, with little or no green or blue.
+323|datasets/VCTK-Corpus/wav22/p323/p323_277.wav|It has never been worthwhile.
+323|datasets/VCTK-Corpus/wav22/p323/p323_072.wav|I'm just glad that no-one was hurt.
+240|datasets/VCTK-Corpus/wav22/p240/p240_304.wav|She should not be blamed.
+308|datasets/VCTK-Corpus/wav22/p308/p308_355.wav|There are two games to go after that.
+255|datasets/VCTK-Corpus/wav22/p255/p255_112.wav|It was not hard to feel some sympathy for Baxter yesterday.
+308|datasets/VCTK-Corpus/wav22/p308/p308_381.wav|A spokesman for Lothian and Borders Police said.
+285|datasets/VCTK-Corpus/wav22/p285/p285_333.wav|It is so sad.
+317|datasets/VCTK-Corpus/wav22/p317/p317_298.wav|We understand the changes in the world.
+295|datasets/VCTK-Corpus/wav22/p295/p295_191.wav|Here, the fans have been fantastic.
+285|datasets/VCTK-Corpus/wav22/p285/p285_325.wav|People look, but no one ever finds it.
+227|datasets/VCTK-Corpus/wav22/p227/p227_206.wav|They have not got anyone.
+304|datasets/VCTK-Corpus/wav22/p304/p304_119.wav|Some have accepted it as a miracle without physical explanation.
+273|datasets/VCTK-Corpus/wav22/p273/p273_172.wav|They are determined to make a meaningful contribution.
+252|datasets/VCTK-Corpus/wav22/p252/p252_357.wav|Was it the wife ?
+248|datasets/VCTK-Corpus/wav22/p248/p248_177.wav|Tyson is overwhelmed.
+234|datasets/VCTK-Corpus/wav22/p234/p234_099.wav|That is all in the past.
+343|datasets/VCTK-Corpus/wav22/p343/p343_248.wav|A compromise is essential.
+376|datasets/VCTK-Corpus/wav22/p376/p376_096.wav|"Mr Blair had done well."
+271|datasets/VCTK-Corpus/wav22/p271/p271_428.wav|The city council is a major property owner in the area.
+279|datasets/VCTK-Corpus/wav22/p279/p279_007.wav|Despite the result, it was still a great moment.
+298|datasets/VCTK-Corpus/wav22/p298/p298_274.wav|That is a mark of what you are.
+245|datasets/VCTK-Corpus/wav22/p245/p245_077.wav|We think all other measures are not exhausted.
+262|datasets/VCTK-Corpus/wav22/p262/p262_233.wav|It will decide today whether he should be struck off the register.
+272|datasets/VCTK-Corpus/wav22/p272/p272_332.wav|George Robertson described the plan as an outrageous and disgraceful decision.
+261|datasets/VCTK-Corpus/wav22/p261/p261_433.wav|They tried to give her advice.
+311|datasets/VCTK-Corpus/wav22/p311/p311_036.wav|All inquiries should be made to the police.
+229|datasets/VCTK-Corpus/wav22/p229/p229_038.wav|It could take years for the tunnel to be reopened.
+287|datasets/VCTK-Corpus/wav22/p287/p287_169.wav|This will secure the future of our industry.
+261|datasets/VCTK-Corpus/wav22/p261/p261_320.wav|Do they think anyone else wants them ?
+277|datasets/VCTK-Corpus/wav22/p277/p277_051.wav|It's the traumatic event in the childhood of the nation.
+318|datasets/VCTK-Corpus/wav22/p318/p318_117.wav|Peter doesn't want to leave.
+280|datasets/VCTK-Corpus/wav22/p280/p280_266.wav|In that situation, they thought we should be beaten.
+299|datasets/VCTK-Corpus/wav22/p299/p299_166.wav|The plot is minimal.
+305|datasets/VCTK-Corpus/wav22/p305/p305_275.wav|This is a very common type of bow, one showing mainly red and yellow, with little or no green or blue.
+374|datasets/VCTK-Corpus/wav22/p374/p374_213.wav|We have a problem.
+244|datasets/VCTK-Corpus/wav22/p244/p244_198.wav|Two other men, including the taxi driver, were wounded in the attack.
+334|datasets/VCTK-Corpus/wav22/p334/p334_226.wav|I knew he was dying.
+295|datasets/VCTK-Corpus/wav22/p295/p295_357.wav|I will be having talks with the workforce.
+329|datasets/VCTK-Corpus/wav22/p329/p329_365.wav|He is a close friend of Gordon Brown.
+280|datasets/VCTK-Corpus/wav22/p280/p280_384.wav|Everyone has to prove a point when they cross that white line.
+360|datasets/VCTK-Corpus/wav22/p360/p360_412.wav|I didn't see the point.
+295|datasets/VCTK-Corpus/wav22/p295/p295_288.wav|Mind you, it wouldn't be a bad idea.
+286|datasets/VCTK-Corpus/wav22/p286/p286_104.wav|Throughout the centuries people have explained the rainbow in various ways.
+314|datasets/VCTK-Corpus/wav22/p314/p314_366.wav|They've been at it for five hours.
+247|datasets/VCTK-Corpus/wav22/p247/p247_032.wav|Being captain of this club is fantastic.)
+274|datasets/VCTK-Corpus/wav22/p274/p274_065.wav|It is also very valuable.)
+277|datasets/VCTK-Corpus/wav22/p277/p277_389.wav|Tony had arrived.
+253|datasets/VCTK-Corpus/wav22/p253/p253_043.wav|People come into the Borders for the beauty of the background.
+272|datasets/VCTK-Corpus/wav22/p272/p272_164.wav|In the early days, I was obsessed with working in the theatre.
+335|datasets/VCTK-Corpus/wav22/p335/p335_388.wav|Muslim leaders in Italy have denied the charge.
+308|datasets/VCTK-Corpus/wav22/p308/p308_117.wav|We have chosen for the patients.
+374|datasets/VCTK-Corpus/wav22/p374/p374_181.wav|It's not the end of the matter, of course.
+303|datasets/VCTK-Corpus/wav22/p303/p303_300.wav|We've had great things in the past.
+345|datasets/VCTK-Corpus/wav22/p345/p345_267.wav|It will include the Black Watch, the Royal Highland regiment.
+254|datasets/VCTK-Corpus/wav22/p254/p254_341.wav|It is a job creation scheme.
+278|datasets/VCTK-Corpus/wav22/p278/p278_013.wav|You can spend money on housing.
+280|datasets/VCTK-Corpus/wav22/p280/p280_277.wav|We still think this trade is on the increase.
+323|datasets/VCTK-Corpus/wav22/p323/p323_274.wav|There is , according to legend, a boiling pot of gold at one end.
+374|datasets/VCTK-Corpus/wav22/p374/p374_315.wav|I cannot believe she has been admonished.
+305|datasets/VCTK-Corpus/wav22/p305/p305_018.wav|We have all been shocked by her death.
+243|datasets/VCTK-Corpus/wav22/p243/p243_320.wav|People look, but no one ever finds it.
+278|datasets/VCTK-Corpus/wav22/p278/p278_185.wav|I wanted to put myself on the line.
+241|datasets/VCTK-Corpus/wav22/p241/p241_108.wav|Our numbers are small.
+287|datasets/VCTK-Corpus/wav22/p287/p287_016.wav|The rainbow is a division of white light into many beautiful colors.
+263|datasets/VCTK-Corpus/wav22/p263/p263_401.wav|We were not allowed to go to help them.
+236|datasets/VCTK-Corpus/wav22/p236/p236_282.wav|I would love to think that she could win.
+339|datasets/VCTK-Corpus/wav22/p339/p339_327.wav|It could have been a ceilidh.
+274|datasets/VCTK-Corpus/wav22/p274/p274_461.wav|This market has been neglected by the whisky industry.)
+266|datasets/VCTK-Corpus/wav22/p266/p266_336.wav|So I did.
+233|datasets/VCTK-Corpus/wav22/p233/p233_085.wav|However, he will have his work cut out defending his title.
+264|datasets/VCTK-Corpus/wav22/p264/p264_259.wav|We have some options there.)
+269|datasets/VCTK-Corpus/wav22/p269/p269_056.wav|It's very odd.
+265|datasets/VCTK-Corpus/wav22/p265/p265_005.wav|I saw the whole thing.
+361|datasets/VCTK-Corpus/wav22/p361/p361_030.wav|She has never mentioned it.
+245|datasets/VCTK-Corpus/wav22/p245/p245_191.wav|We did not compete with any other local farmer.
+241|datasets/VCTK-Corpus/wav22/p241/p241_271.wav|A police inquiry began about two weeks before the General Election.
+360|datasets/VCTK-Corpus/wav22/p360/p360_057.wav|That has now gone.
+318|datasets/VCTK-Corpus/wav22/p318/p318_090.wav|There is , according to legend, a boiling pot of gold at one end.
+340|datasets/VCTK-Corpus/wav22/p340/p340_379.wav|I love it here.
+239|datasets/VCTK-Corpus/wav22/p239/p239_077.wav|Western countries condemned the conduct of the poll.
+247|datasets/VCTK-Corpus/wav22/p247/p247_290.wav|I think we'll just keep it.)
+323|datasets/VCTK-Corpus/wav22/p323/p323_183.wav|We tend to come good at the end.
+336|datasets/VCTK-Corpus/wav22/p336/p336_178.wav|It was a crucial moment.
+244|datasets/VCTK-Corpus/wav22/p244/p244_215.wav|In the meantime, the fans would settle for a derby win.
+227|datasets/VCTK-Corpus/wav22/p227/p227_390.wav|He was in great spirits.
+261|datasets/VCTK-Corpus/wav22/p261/p261_180.wav|He must have seen the movie.
+341|datasets/VCTK-Corpus/wav22/p341/p341_190.wav|We are going to go about our lives.
+278|datasets/VCTK-Corpus/wav22/p278/p278_193.wav|The answer was in space.
+231|datasets/VCTK-Corpus/wav22/p231/p231_275.wav|Was it the wife ?
+282|datasets/VCTK-Corpus/wav22/p282/p282_061.wav|And if he hadn't become a musician?
+231|datasets/VCTK-Corpus/wav22/p231/p231_439.wav|Italy is a beautiful place.
+239|datasets/VCTK-Corpus/wav22/p239/p239_501.wav|It wasn't about her singing, though.
+272|datasets/VCTK-Corpus/wav22/p272/p272_060.wav|Our policy is clear.
+256|datasets/VCTK-Corpus/wav22/p256/p256_213.wav|There is no other solution to congestion in Edinburgh.
+302|datasets/VCTK-Corpus/wav22/p302/p302_107.wav|They did, too, but it didn't matter by then.
+300|datasets/VCTK-Corpus/wav22/p300/p300_294.wav|I don't have any bitterness about it, it's just a fact.
+275|datasets/VCTK-Corpus/wav22/p275/p275_256.wav|I was awful.
+313|datasets/VCTK-Corpus/wav22/p313/p313_015.wav|There is a great carry over value.
+277|datasets/VCTK-Corpus/wav22/p277/p277_271.wav|It was a total disaster.
+286|datasets/VCTK-Corpus/wav22/p286/p286_450.wav|The rescue package is public money.
+339|datasets/VCTK-Corpus/wav22/p339/p339_091.wav|I don't know how she does it.
+225|datasets/VCTK-Corpus/wav22/p225/p225_337.wav|Six spoons of fresh snow peas, five thick slabs of blue cheese, and maybe a snack for her brother Bob.
+240|datasets/VCTK-Corpus/wav22/p240/p240_202.wav|They also recovered a picture of Osama bin Laden.
+231|datasets/VCTK-Corpus/wav22/p231/p231_257.wav|It will decide today whether he should be struck off the register.
+255|datasets/VCTK-Corpus/wav22/p255/p255_280.wav|Four policemen were wounded.
+246|datasets/VCTK-Corpus/wav22/p246/p246_229.wav|We must provide a long-term solution to tackle this attitude.
+285|datasets/VCTK-Corpus/wav22/p285/p285_099.wav|Their courage, and their honesty, should be respected.
+305|datasets/VCTK-Corpus/wav22/p305/p305_223.wav|Our children are our future.
+243|datasets/VCTK-Corpus/wav22/p243/p243_362.wav|We took part in a festival called Global Dance.
+317|datasets/VCTK-Corpus/wav22/p317/p317_007.wav|However, the groups denied the claims.
+310|datasets/VCTK-Corpus/wav22/p310/p310_109.wav|However, in October another partnership was announced.
+247|datasets/VCTK-Corpus/wav22/p247/p247_132.wav|The website has changed the company.)
+259|datasets/VCTK-Corpus/wav22/p259/p259_358.wav|Their one weakness was running between the wickets.)
+272|datasets/VCTK-Corpus/wav22/p272/p272_361.wav|Yet the data is compelling.
+306|datasets/VCTK-Corpus/wav22/p306/p306_086.wav|Well, was it?
+330|datasets/VCTK-Corpus/wav22/p330/p330_199.wav|This advice was accepted by ministers.
+301|datasets/VCTK-Corpus/wav22/p301/p301_170.wav|The encounter was to change his life.
+246|datasets/VCTK-Corpus/wav22/p246/p246_235.wav|It's a way of life.
+277|datasets/VCTK-Corpus/wav22/p277/p277_295.wav|We think all other measures are not exhausted.
+335|datasets/VCTK-Corpus/wav22/p335/p335_217.wav|There are schoolboys in uniform.
+279|datasets/VCTK-Corpus/wav22/p279/p279_212.wav|I thought it was my only chance.
+276|datasets/VCTK-Corpus/wav22/p276/p276_419.wav|There was a fine line to tread.
+227|datasets/VCTK-Corpus/wav22/p227/p227_176.wav|I can hardly believe it.
+295|datasets/VCTK-Corpus/wav22/p295/p295_130.wav|The music is therefore profoundly subversive.
+283|datasets/VCTK-Corpus/wav22/p283/p283_046.wav|It's as wide as a church in here.
+294|datasets/VCTK-Corpus/wav22/p294/p294_402.wav|They never gave up hope.
+260|datasets/VCTK-Corpus/wav22/p260/p260_235.wav|If not, he should go home.
+243|datasets/VCTK-Corpus/wav22/p243/p243_334.wav|The agreement remains the only show in town.
+312|datasets/VCTK-Corpus/wav22/p312/p312_389.wav|It's just so sad.
+360|datasets/VCTK-Corpus/wav22/p360/p360_065.wav|What happens next?
+237|datasets/VCTK-Corpus/wav22/p237/p237_128.wav|There's the mix.
+254|datasets/VCTK-Corpus/wav22/p254/p254_353.wav|On fuel, the Chancellor has a number of options.
+303|datasets/VCTK-Corpus/wav22/p303/p303_027.wav|Who said impatience is a virtue?
+333|datasets/VCTK-Corpus/wav22/p333/p333_188.wav|John Prescott is John Prescott, as the prime minister would say.
+304|datasets/VCTK-Corpus/wav22/p304/p304_334.wav|We could not get any possession.
+316|datasets/VCTK-Corpus/wav22/p316/p316_113.wav|Worse still, he might be singing Lady in Red.
+240|datasets/VCTK-Corpus/wav22/p240/p240_259.wav|She really suffered for her art.
+292|datasets/VCTK-Corpus/wav22/p292/p292_205.wav|I am appalled by this news.
+250|datasets/VCTK-Corpus/wav22/p250/p250_302.wav|Everything in golf is a balance.
+339|datasets/VCTK-Corpus/wav22/p339/p339_383.wav|I think we're the better side.
+339|datasets/VCTK-Corpus/wav22/p339/p339_324.wav|It was not like that at all.
+311|datasets/VCTK-Corpus/wav22/p311/p311_051.wav|He was part of South Africa.
+308|datasets/VCTK-Corpus/wav22/p308/p308_140.wav|He is only now regaining his confidence.
+339|datasets/VCTK-Corpus/wav22/p339/p339_010.wav|We know that from recent experience.
+230|datasets/VCTK-Corpus/wav22/p230/p230_036.wav|It makes no influence on the public.
+294|datasets/VCTK-Corpus/wav22/p294/p294_376.wav|It didn't work against Sweden, but that was the intention.
+333|datasets/VCTK-Corpus/wav22/p333/p333_247.wav|She can scoop these things into three red bags, and we will go meet her Wednesday at the train station.
+279|datasets/VCTK-Corpus/wav22/p279/p279_228.wav|In each case they were a goal down.
+333|datasets/VCTK-Corpus/wav22/p333/p333_336.wav|They wanted to show what they could do.
+263|datasets/VCTK-Corpus/wav22/p263/p263_351.wav|Theatre is not a museum.
+360|datasets/VCTK-Corpus/wav22/p360/p360_096.wav|We never publicise it.
+256|datasets/VCTK-Corpus/wav22/p256/p256_102.wav|We also need a small plastic snake and a big toy frog for the kids.
+335|datasets/VCTK-Corpus/wav22/p335/p335_237.wav|We should do everything at a stroke.
+302|datasets/VCTK-Corpus/wav22/p302/p302_196.wav|They prefer the short, intensive session.
+361|datasets/VCTK-Corpus/wav22/p361/p361_293.wav|It is his script.
+240|datasets/VCTK-Corpus/wav22/p240/p240_198.wav|We do not expect any surplus.
+256|datasets/VCTK-Corpus/wav22/p256/p256_073.wav|I wanted to put myself on the line.
+250|datasets/VCTK-Corpus/wav22/p250/p250_428.wav|Rugby has an extended run.
+252|datasets/VCTK-Corpus/wav22/p252/p252_006.wav|How are you, sir ?
+260|datasets/VCTK-Corpus/wav22/p260/p260_084.wav|Two people were interviewed.
+312|datasets/VCTK-Corpus/wav22/p312/p312_291.wav|It's a double whammy.
+230|datasets/VCTK-Corpus/wav22/p230/p230_069.wav|We must recognise that this outfit is unique.
+264|datasets/VCTK-Corpus/wav22/p264/p264_466.wav|We just want this session to end.)
+326|datasets/VCTK-Corpus/wav22/p326/p326_090.wav|He looked very sharp.
+260|datasets/VCTK-Corpus/wav22/p260/p260_217.wav|They must play for each other.
+264|datasets/VCTK-Corpus/wav22/p264/p264_365.wav|It was either Wednesday or Thursday, he said.)
+274|datasets/VCTK-Corpus/wav22/p274/p274_438.wav|The BBC was a disgrace.)
+316|datasets/VCTK-Corpus/wav22/p316/p316_110.wav|The air campaign is not over yet.
+236|datasets/VCTK-Corpus/wav22/p236/p236_496.wav|It was an excellent performance.
+275|datasets/VCTK-Corpus/wav22/p275/p275_201.wav|The decision was announced at its annual conference in Dunfermline.
+305|datasets/VCTK-Corpus/wav22/p305/p305_004.wav|It broke up my marriage.
+335|datasets/VCTK-Corpus/wav22/p335/p335_232.wav|He had come of age.
+310|datasets/VCTK-Corpus/wav22/p310/p310_301.wav|But there is another side.
+278|datasets/VCTK-Corpus/wav22/p278/p278_011.wav|Lord Macdonald has worked on this deal for three months.
+258|datasets/VCTK-Corpus/wav22/p258/p258_282.wav|My wife and family are the support system.
+362|datasets/VCTK-Corpus/wav22/p362/p362_210.wav|They were impressive against France.
+234|datasets/VCTK-Corpus/wav22/p234/p234_305.wav|That is the nature of the game.
+234|datasets/VCTK-Corpus/wav22/p234/p234_349.wav|They have to be addressed.
+247|datasets/VCTK-Corpus/wav22/p247/p247_281.wav|Athletics is on a roll in the country.)
+345|datasets/VCTK-Corpus/wav22/p345/p345_346.wav|But it is looking very positive.
+262|datasets/VCTK-Corpus/wav22/p262/p262_356.wav|We are in the end game.
+345|datasets/VCTK-Corpus/wav22/p345/p345_272.wav|It's a gigantic con.
+336|datasets/VCTK-Corpus/wav22/p336/p336_220.wav|However, it does not tell the full story.
+343|datasets/VCTK-Corpus/wav22/p343/p343_118.wav|He has the edge.
+260|datasets/VCTK-Corpus/wav22/p260/p260_098.wav|However, they continued in their pursuit of victory.
+333|datasets/VCTK-Corpus/wav22/p333/p333_405.wav|It's been like that for ages, according to the guys.
+253|datasets/VCTK-Corpus/wav22/p253/p253_005.wav|The judges will give a ruling next Wednesday.
+317|datasets/VCTK-Corpus/wav22/p317/p317_004.wav|That's the law of the land.
+364|datasets/VCTK-Corpus/wav22/p364/p364_231.wav|It is sponsored by The Herald.
+241|datasets/VCTK-Corpus/wav22/p241/p241_113.wav|This is the window.
+270|datasets/VCTK-Corpus/wav22/p270/p270_154.wav|The effect was almost magical.
+240|datasets/VCTK-Corpus/wav22/p240/p240_331.wav|I am immensely sad.
+266|datasets/VCTK-Corpus/wav22/p266/p266_173.wav|The judges will give a ruling next Wednesday.
+302|datasets/VCTK-Corpus/wav22/p302/p302_299.wav|This is a one-year deal, but who knows?
+233|datasets/VCTK-Corpus/wav22/p233/p233_299.wav|You have to do your research.
+364|datasets/VCTK-Corpus/wav22/p364/p364_130.wav|Scotland needs to hear it, too.
+225|datasets/VCTK-Corpus/wav22/p225/p225_242.wav|He added that he was very sad about O Neill.
+305|datasets/VCTK-Corpus/wav22/p305/p305_063.wav|The love affair was over.
+280|datasets/VCTK-Corpus/wav22/p280/p280_027.wav|Three senior officials were dismissed last week.
+259|datasets/VCTK-Corpus/wav22/p259/p259_099.wav|I had a fortunate war.)
+240|datasets/VCTK-Corpus/wav22/p240/p240_033.wav|I was furious.
+347|datasets/VCTK-Corpus/wav22/p347/p347_391.wav|His views are hardly surprising.
+263|datasets/VCTK-Corpus/wav22/p263/p263_162.wav|I have decided to stand down from the list.
+243|datasets/VCTK-Corpus/wav22/p243/p243_365.wav|Andy was a huge influence yet again.
+286|datasets/VCTK-Corpus/wav22/p286/p286_071.wav|That would be too easy.
+345|datasets/VCTK-Corpus/wav22/p345/p345_322.wav|And they still have the final to come.
+231|datasets/VCTK-Corpus/wav22/p231/p231_202.wav|No production contract is yet in sight.
+287|datasets/VCTK-Corpus/wav22/p287/p287_364.wav|When a man looks for something beyond his reach, his friends say he is looking for the pot of gold at the end of the rainbow.
+257|datasets/VCTK-Corpus/wav22/p257/p257_338.wav|Graeme was prepared.
+264|datasets/VCTK-Corpus/wav22/p264/p264_318.wav|I only signed this morning.)
+274|datasets/VCTK-Corpus/wav22/p274/p274_048.wav|This idea has been around for four years.)
+363|datasets/VCTK-Corpus/wav22/p363/p363_025.wav|Sadly, it is not to be.
+270|datasets/VCTK-Corpus/wav22/p270/p270_193.wav|People can really get themselves in a mess.
+284|datasets/VCTK-Corpus/wav22/p284/p284_423.wav|Edinburgh, in fact, was not included in the survey.
+267|datasets/VCTK-Corpus/wav22/p267/p267_139.wav|HARRY Potter has lost his magic.
+261|datasets/VCTK-Corpus/wav22/p261/p261_002.wav|What form did that take ?
+294|datasets/VCTK-Corpus/wav22/p294/p294_057.wav|The course record was in his name.
+329|datasets/VCTK-Corpus/wav22/p329/p329_419.wav|I saw them not long after it happened.
+273|datasets/VCTK-Corpus/wav22/p273/p273_415.wav|That's been all around Europe with me.
+237|datasets/VCTK-Corpus/wav22/p237/p237_149.wav|Tommy is not a problem.
+246|datasets/VCTK-Corpus/wav22/p246/p246_180.wav|To do so he reckons that a good opening result is essential.
+351|datasets/VCTK-Corpus/wav22/p351/p351_028.wav|There was mystery back then.
+308|datasets/VCTK-Corpus/wav22/p308/p308_152.wav|You just have to accept.
+263|datasets/VCTK-Corpus/wav22/p263/p263_461.wav|And does it ?
+295|datasets/VCTK-Corpus/wav22/p295/p295_211.wav|We're playing away from home and that's it.
+333|datasets/VCTK-Corpus/wav22/p333/p333_199.wav|All of us do.
+236|datasets/VCTK-Corpus/wav22/p236/p236_110.wav|The fate of the rest is unknown.
+279|datasets/VCTK-Corpus/wav22/p279/p279_213.wav|His team management was protective.
+318|datasets/VCTK-Corpus/wav22/p318/p318_314.wav|The Tory party will last.
+286|datasets/VCTK-Corpus/wav22/p286/p286_407.wav|That was a touch of class.
+252|datasets/VCTK-Corpus/wav22/p252/p252_283.wav|The fifth was found later.
+239|datasets/VCTK-Corpus/wav22/p239/p239_423.wav|Frankly, we should all have such problems.
+364|datasets/VCTK-Corpus/wav22/p364/p364_142.wav|We do know the reaction of the SAC.
+269|datasets/VCTK-Corpus/wav22/p269/p269_104.wav|To the Hebrews it was a token that there would be no more universal floods.
+317|datasets/VCTK-Corpus/wav22/p317/p317_226.wav|Ten years on, that advice is beginning to pay dividends.
+277|datasets/VCTK-Corpus/wav22/p277/p277_300.wav|Other members of the family were too upset to comment last night.
+292|datasets/VCTK-Corpus/wav22/p292/p292_316.wav|However, the snow was welcomed by some.
+243|datasets/VCTK-Corpus/wav22/p243/p243_269.wav|I saw the story, but that amount wouldn't even pay my commission.
+228|datasets/VCTK-Corpus/wav22/p228/p228_176.wav|It is not just about pay.
+329|datasets/VCTK-Corpus/wav22/p329/p329_375.wav|Others have tried to explain the phenomenon physically.
+272|datasets/VCTK-Corpus/wav22/p272/p272_192.wav|Again, we were lucky.
+258|datasets/VCTK-Corpus/wav22/p258/p258_360.wav|What was the main difference?
+295|datasets/VCTK-Corpus/wav22/p295/p295_391.wav|It felt like my support system was leaving.
+249|datasets/VCTK-Corpus/wav22/p249/p249_276.wav|We want to help them through it.
+278|datasets/VCTK-Corpus/wav22/p278/p278_069.wav|They could use a boost.
+282|datasets/VCTK-Corpus/wav22/p282/p282_009.wav|Their time has gone.
+278|datasets/VCTK-Corpus/wav22/p278/p278_388.wav|And does it ?
+262|datasets/VCTK-Corpus/wav22/p262/p262_060.wav|Well, he can do it.
+240|datasets/VCTK-Corpus/wav22/p240/p240_024.wav|Our thoughts are with the relatives of the family.
+253|datasets/VCTK-Corpus/wav22/p253/p253_224.wav|Jim Wallace, the justice minister, acknowledged that prisoner numbers were a concern.
+283|datasets/VCTK-Corpus/wav22/p283/p283_193.wav|The BBC was a disgrace.
+305|datasets/VCTK-Corpus/wav22/p305/p305_245.wav|It's been a terrible ordeal for Margaret.
+269|datasets/VCTK-Corpus/wav22/p269/p269_198.wav|Naturally enough, the letter in question was an E.
+275|datasets/VCTK-Corpus/wav22/p275/p275_261.wav|The election is total confusion and chaos.
+249|datasets/VCTK-Corpus/wav22/p249/p249_039.wav|I'm just enjoying every match.
+259|datasets/VCTK-Corpus/wav22/p259/p259_116.wav|Potions said he would drive.)
+333|datasets/VCTK-Corpus/wav22/p333/p333_423.wav|THE headless man has finally developed a face.
+241|datasets/VCTK-Corpus/wav22/p241/p241_036.wav|It is a mark of respect from the inmates.
+330|datasets/VCTK-Corpus/wav22/p330/p330_327.wav|I never thought it would take this long.
+264|datasets/VCTK-Corpus/wav22/p264/p264_263.wav|I knew him well.)
+231|datasets/VCTK-Corpus/wav22/p231/p231_386.wav|You've been a great audience.
+238|datasets/VCTK-Corpus/wav22/p238/p238_381.wav|The refund is fully justified.
+270|datasets/VCTK-Corpus/wav22/p270/p270_417.wav|But his speech was delivered by a senior civil servant.
+311|datasets/VCTK-Corpus/wav22/p311/p311_114.wav|With actors it is slightly different.

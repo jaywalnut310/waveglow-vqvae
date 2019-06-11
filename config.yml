@@ -1,0 +1,78 @@
+# audio
+sample_rate: 22050
+mel_channels: 80
+fmin: 0.0
+fmax: 8000.0
+fft_size: 1024
+hop_size: 256
+max_wav_value: 32768.0
+
+# model
+n_flows: 12
+n_group: 8
+n_early_every: 4
+n_early_size: 2
+n_layers: 8
+n_channels: 256
+kernel_size: 3
+sigma: 1.0
+act_name: leaky_relu # leaky_relu, relu, relu6
+
+# conditon
+freq_axis_kernel_size: 3
+upsample_scales: [8, 8]
+use_film: true
+use_cond_wn: false
+
+# speaker ids
+emb_channels: 512
+n_speakers: 512
+
+# vq
+use_vq: true
+bottleneck_bits: 9
+bottleneck_dims_per_bit: 16
+hidden_channels: 256
+beta: 0.01
+gamma: 0.01
+
+# training
+ftype: float16 # float16, float32
+local_condition: wav # mel, wav
+global_condition: null # null, sid
+max_input_length: 16384
+train_steps: 1000000
+eval_steps: null
+throttle_secs: 10
+save_summary_steps: 1000
+save_checkpoints_secs: 1800
+n_checkpoints: 5
+train_batch_size: 6
+learning_rate: 0.0001
+min_lr: 0.00005
+lr_decay: halve # null, noam, halve
+halve_step: 500000
+exponential_moving_average: false
+ema_decay: 0.9999
+
+# optimizer
+optimizer: adam
+adam_beta1: 0.9
+adam_beta2: 0.999
+adam_epsilon: 0.00000001
+clip_gradients: null
+loss_scale: 512 # 1, 512
+
+# eval
+eval_batch_size: 1
+
+# infer
+infer_batch_size: 1
+
+# data paths
+vocab_file: null
+load_features: [wav, mel]
+tfr_dir: datasets/ljs
+tfr_prefix: ljs
+train_files: filelists/ljs_audio_text_train_filelist.txt
+eval_files:  filelists/ljs_audio_text_eval_filelist.txt
