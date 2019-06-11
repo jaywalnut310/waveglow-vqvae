@@ -58,7 +58,7 @@ tar -jxvf LJSpeech-1.1.tar.bz2
 wget http://homepages.inf.ed.ac.uk/jyamagis/release/VCTK-Corpus.tar.gz
 tar -zxvf VCTK-Corpus.tar.gz
 cd ../filelists
-python create_vctk_filelist.py # Change sample rate
+python resample_vctk.py # Change sample rate
 
 # 3. Create TFRecords
 python generate_data.py
