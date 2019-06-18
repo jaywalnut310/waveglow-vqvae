@@ -105,7 +105,7 @@ You may have to change tfr_dir and model_dir to work on your settings.
 - For fp16 settings, you need 1 week to train 1M steps with 4 V100 GPUs.
 - I haven't tried fp32 training, so there might be some issues to train high quality models.
 - As fp16 training is not robust enough (at now), I usually train FiLM enabled model and unabled model consequently and choose one which survives.
-- For a single speaker dataset(LJ Speech dataset), trained model vocoding quality is good enough compared to mel-spectrogram condtioned one.
+- For a single speaker dataset(LJ Speech dataset), trained model vocoding quality is good enough compared to mel-spectrogram conditioned one.
 - For multi-speaker dataset(VCTK Corpus), disentangling between speaker identity and local condition does not work well (at now). I am investigating reasons though.
 - The next step would be training Text-to-LatentCodes model(as Transformer) so that fully TTS is possible.
 - If you're interested in this project, please improve models with me!
